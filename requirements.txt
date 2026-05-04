@@ -6,3 +6,5 @@ itsdangerous==2.2.0
 click==8.1.7
 gunicorn==21.2.0
 python-dotenv==1.0.1
+markupsafe>=2.1
+bcrypt
